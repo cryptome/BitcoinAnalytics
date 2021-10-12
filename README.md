@@ -26,14 +26,14 @@ From looking at our plot we can see that a statistically significant relationshi
 
 We can utilize the MVRV ratio in a macro point of view to enter the market anytime the ratio falls below 1. We can also use this ratio to take profits anytime the ratio goes above 3.7
 
-.![MVRV Graph](Photos/Graph_PNGs/MVRV_Graph.png)
+![MVRV Graph](Photos/Graph_PNGs/MVRV_Graph.png)
 
 
 ### Will a standard deviation metric aid in identifying extreme periods of over/undervaluation?
 
 By subtracting the realized cap from the market cap, and then dividing by the standard deviation of the market cap we obtain the MVRV Z-Score. When the score is near or below zero, it has historically proven to be an excellent time to long the market. When the score rises above 7, Bitcoin is considered to be overvalued and this is a good time to consider taking profits.
 
-![Price and MRVR Z-Score Graph](Photos/Graph_PNGs/Price_and_MRVR_Z_score_Graph.png)
+![Price and MRVR Z-Score Graph](Photos/Graph_PNGs/Price_and_MVRV_Z_Score_Graph.png)
 
 ## Why is Net Unrealized Profit/Loss a useful metric?
 
